@@ -1,0 +1,6 @@
+18 bcdefg,aghic,abijd,acjke,adklmf,aemng,afnhb,bgnoi,bhopjc,cipqkd,djqle,ekqrm,elrnf,fmrohg,hnrpi,iorqj,jprlk,lqponm
+18 bcdefg,aghic,abijkd,ackle,adlmf,aemng,afnhb,bgnoi,bhopjc,cipqk,cjqld,dkqrme,elrnf,fmrohg,hnrpi,iorqj,jprlk,lqponm
+18 bcdefg,aghic,abijkd,ackle,adlmf,aemnog,afohb,bgopi,bhpjc,cipqk,cjqrld,dkrme,elrnf,fmrqo,fnqphg,hoqji,jponrk,kqnml
+18 bcdefg,aghic,abijkd,ackle,adlmf,aemnog,afohb,bgopi,bhpqjc,ciqrk,cjrld,dkrme,elrnf,fmrqpo,fnphg,honqi,ipnrj,jqnmlk
+18 bcdefg,aghic,abijkd,ackle,adlmnf,aenog,afohb,bgopi,bhpqjc,ciqrk,cjrld,dkrme,elrqn,emqpof,fnphg,honqi,ipnmrj,jqmlk
+18 bcdefg,aghijc,abjkld,aclme,admnf,aenog,afohb,bgopi,bhpqj,biqkc,cjqrl,ckrmd,dlrne,emrpof,fnphg,honrqi,iprkj,kqpnml
